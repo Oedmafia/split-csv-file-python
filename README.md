@@ -34,6 +34,13 @@ Python script to split a CSV file into smaller files.
    pip install pandas
    ```
 
+5. Run the script:
+   ```bash
+   python script.py
+   ```
+
+---
+
 # split-csv-file-python (PT-BR)
 Script Python para dividir um arquivo CSV em arquivos menores.
 
@@ -70,6 +77,13 @@ Script Python para dividir um arquivo CSV em arquivos menores.
    pip install pandas
    ```
 
+5. Execute o script:
+   ```bash
+   python script.py
+   ```
+
+---
+
 # split-csv-file-python (ES)
 Script Python para dividir un archivo CSV en archivos más pequeños.
 
@@ -104,4 +118,9 @@ Script Python para dividir un archivo CSV en archivos más pequeños.
 4. Instala los paquetes necesarios:
    ```bash
    pip install pandas
+   ```
+
+5. Ejecuta el script:
+   ```bash
+   python script.py
    ```
